@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="imageList">
+        <image style="width: 100px; height: 100px;" mode="aspectFit" src="{{src1}}"></image>
+        <image style="width: 100px; height: 100px;" mode="aspectFit" src="{{src2}}"></image>
+        <image style="width: 100px; height: 100px;" mode="aspectFit" src="{{src3}}"></image>
+  </view>
+</view>

@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/userinfo/userinfo",
+    "pages/qzone/qzone",
+    "pages/douyu/douyu",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "XPFirst",
+    "navigationBarTextStyle":"black"
+  }
+}

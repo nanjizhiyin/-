@@ -1,0 +1,5 @@
+/**index.wxss**/
+
+.imageList {
+  margin-top: 100px;
+}

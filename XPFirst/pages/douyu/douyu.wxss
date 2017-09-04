@@ -1,0 +1,12 @@
+/**index.wxss**/
+.userinfo {
+  margin-top: 20px;
+}
+
+.userinfo-text {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}

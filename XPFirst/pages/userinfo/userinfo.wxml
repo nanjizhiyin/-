@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <view><text class="userinfo-text">姓名:</text>郜金丹</view >
+    <view><text class="userinfo-text">姓别:</text> 男</view >
+    <view><text class="userinfo-text">手机号:</text>  18511074294</view >
+    <view><text class="userinfo-text">生日:</text> 11/17</view >
+  </view>
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+</view>
